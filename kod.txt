@@ -1,0 +1,39 @@
+<!DOCTYPE HTML>
+<html lang="pl">
+
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Language" content="pl" />
+<meta name="description" content="" />
+<meta name="keywords" content="" />
+<link href="./css/style.css" rel="stylesheet" type="text/css">
+<title></title>
+</head>
+
+<body>
+<header>
+    <a href="omnie.html">login</a>
+</header>
+<section class="column">
+    <div id= "articles">
+        <h3>Articles:</h3>
+        <a class="link" href="omnie.html">article1</a>
+    </div>
+    <div id="blogtext">
+        <h2 class="center">precious metals</h2>
+        <p class="center">Autor: Kondzio</p>
+        <img src="images/gold.jpg" class="img-rounded"/>
+        <p>The precious metals industry differs considerably from those for most other metals and minerals in being driven mainly by the high prices and special properties of these metals. Precious metals (comprising gold, silver, platinum, palladium, rhodium, and iridium) occur rarely in nature and typically in only trace concentrations, requiring complex and costly mining and refining processes. Precious metals have unique and highly valued properties, such as corrosion resistance, high conductivity, and catalytic capabilities, and are increasingly used in high-technology applications and devices. Gold and silver,and, more recently, platinum and palladium are sought after for investment purposes. The precious metals industry is complex, and today is confronted by many challenges. This chapter discusses issues of increased demand coupled with decreasing grades, increasing prices, increasing production costs, and deleterious byproducts; geopolitics, public perception, and regulations surrounding the primary industry; labor unrest; artisanal and illegal mining; sustainability and water and energy usage. Various mitigating approaches are addressed, including an increased focus on recycling, the concepts of thrifting and substitution, and the emergence of new technologies. In conclusion, a positive prognosis for the future of this industry is offered.</p>
+    </div>
+    <div id="tags">
+        <h3>Tag List:</h3>
+        <p>tag 1</p>
+        <p>tag 2</p>
+        <p>tag 3</p>
+    </div>
+</section>
+<script type="module" src="js/data.js"></script> 
+<script type="module" src="js/script.js"></script> 
+</body>
+
+</html>
